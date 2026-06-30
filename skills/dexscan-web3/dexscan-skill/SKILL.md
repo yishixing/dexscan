@@ -1,5 +1,5 @@
 ---
-name: dexscan
+name: dexscan-skill
 description: >
   使用此技能获取链上市场数据：代币行情、代币信息、信号、社交热度、聪明钱地址。
 
@@ -17,7 +17,7 @@ description: >
 ## 目录结构
 
 ```
-dexscan/
+dexscan-skill/
 ├── SKILL.md              # 主技能文件（当前文件）
 ├── .env                  # API 密钥配置文件
 ├── scripts/
